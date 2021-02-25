@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    border: 0;
+    background: auto;
+}
+
+
+
+.container {
+    width: 90%;
+    height: 100%;
+}
+.container img {
+    width: 100%;
+    height: auto;
+}
+.container1 img {
+    padding: 20px 1px;
+    width: 35%;
+    height: auto;
+}
+
+
+
+
+
